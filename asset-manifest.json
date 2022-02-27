@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-poems-redux-app/static/css/main.65d3b41a.css",
+    "main.js": "/random-poems-redux-app/static/js/main.746472e3.js",
+    "index.html": "/random-poems-redux-app/index.html",
+    "main.65d3b41a.css.map": "/random-poems-redux-app/static/css/main.65d3b41a.css.map",
+    "main.746472e3.js.map": "/random-poems-redux-app/static/js/main.746472e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d3b41a.css",
+    "static/js/main.746472e3.js"
+  ]
+}
